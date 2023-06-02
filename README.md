@@ -1,2 +1,3 @@
-# BCUG
-Baltimore Cloud User Group
+# Baltimore Cloud User Group (BCUG)
+
+
